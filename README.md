@@ -1,10 +1,7 @@
-### 🛠️ 💻 Hello planet 🙋‍♀️
+# 🛠️ 💻 Hello planet 🙋‍♀️
 
 With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
 Passionate about creativity and challenges, I'm a dedicated junior full stack web developer, eager to expand my horizons. 🚀  
-
-
-
 
 
 ## Languages and Tools ⚙️  
