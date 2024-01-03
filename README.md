@@ -18,6 +18,9 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 
 ## Portfolio Projects
 
+### [Traveler's Tales](https://travel-blog-a62ef.web.app/)
+Traveler's Tales is a dynamic travel blog where users can share their adventures, and engage with others by liking and commenting on their journeys.
+
 ### [Digital Service Company](https://ds-company.netlify.app/)
 This project focuses on a digital company, offering a brief description of its services, displaying real projects as examples, and providing contact information for anyone interested in getting in touch or learning more.
 
