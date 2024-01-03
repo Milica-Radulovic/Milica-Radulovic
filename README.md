@@ -15,3 +15,10 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+
+## Portfolio Projects
+
+### [Yoga Journey](https://milicarad.netlify.app/)
+This project is about Milica and her yoga journey. It includes a page with a brief description of Milica, a page detailing how she embarked on her yoga journey and the transformations it brought, a blog page sharing her yoga and travel adventures, and a contact page for easy communication.
+
+###
