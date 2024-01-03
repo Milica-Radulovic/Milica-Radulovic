@@ -18,7 +18,10 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 
 ## Portfolio Projects
 
+### [Digital Service Company](https://ds-company.netlify.app/)
+This project focuses on a digital company, offering a brief description of its services, displaying real projects as examples, and providing contact information for anyone interested in getting in touch or learning more.
+
 ### [Yoga Journey](https://milicarad.netlify.app/)
 This project is about Milica and her yoga journey. It includes a page with a brief description of Milica, a page detailing how she embarked on her yoga journey and the transformations it brought, a blog page sharing her yoga and travel adventures, and a contact page for easy communication.
 
-###
+
