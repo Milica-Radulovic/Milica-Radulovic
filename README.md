@@ -1,5 +1,5 @@
 
-<h1 align="center">🛠️ 💻 Hello planet 🙋‍♀️, I'm Milica Radulovic, based in Germany</h1>
+<h1 align="center">🛠️ 💻 Hello planet 🙋‍♀️, I'm Milica Radulovic</h1>
 
 <p>With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
 Passionate about creativity and challenges, I'm a dedicated junior full stack web developer, eager to expand my horizons. 🚀</p>
