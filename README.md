@@ -1,8 +1,14 @@
 
 <h1 align="center">🛠️ 💻 Hello planet 🙋‍♀️, I'm Milica Radulovic, based in Germany</h1>
 
-<p align="center">With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
+<p>With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
 Passionate about creativity and challenges, I'm a dedicated junior full stack web developer, eager to expand my horizons. 🚀</p>
+<br>
+
+- 🔭 Here you can check out my first project 📂 [Yoga Journey](https://milicarad.netlify.app/)
+- 🌼 I’m currently working on the project Bloom Express
+- 📫 How to reach me: milicarad@hotmail.com
+
 <br>
 
 ## Languages and Tools ⚙️  
@@ -19,8 +25,9 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 
 <br>
 <br>
+<br>
 
-## Portfolio Projects
+## Portfolio Projects 📂
 
 ### [Traveler's Tales](https://travel-blog-a62ef.web.app/)
 Traveler's Tales is a dynamic travel blog where users can share their adventures, and engage with others by liking and commenting on their journeys.
