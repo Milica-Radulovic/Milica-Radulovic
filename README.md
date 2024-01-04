@@ -1,10 +1,9 @@
-<img align="left" alt="MERN" width="100%" height="300px" style="object-fit: cover" src="https://www.appstudio.ca/blog/wp-content/uploads/2020/10/Mern-Stack-Development-companies.jpg" />
 
-# 🛠️ 💻 Hello planet 🙋‍♀️, I'm Milica, based in Germany 
+<h1 align="center">🛠️ 💻 Hello planet 🙋‍♀️, I'm Milica Radulovic, based in Germany</h1>
 
-With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
-Passionate about creativity and challenges, I'm a dedicated junior full stack web developer, eager to expand my horizons. 🚀  
-
+<p align="center">With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
+Passionate about creativity and challenges, I'm a dedicated junior full stack web developer, eager to expand my horizons. 🚀</p>
+<br>
 
 ## Languages and Tools ⚙️  
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
@@ -17,6 +16,9 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+
+<br>
+<br>
 
 ## Portfolio Projects
 
