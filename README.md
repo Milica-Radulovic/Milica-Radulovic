@@ -6,7 +6,7 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 <br>
 
 - 🔭 Here you can check out my first project 📂 [Yoga Journey](https://milicarad.netlify.app/)
-- 🌼 I’m currently working on the project Bloom Express
+- 🌳 I’m currently working on the project BioBaumBauer
 - 📫 How to reach me: milicarad@hotmail.com
 
 <br>
