@@ -1,3 +1,5 @@
+<img align="left" alt="MERN" width="100%" height="300px" style="object-fit: cover" src="https://www.appstudio.ca/blog/wp-content/uploads/2020/10/Mern-Stack-Development-companies.jpg" />
+
 # 🛠️ 💻 Hello planet 🙋‍♀️, I'm Milica, based in Germany 
 
 With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
