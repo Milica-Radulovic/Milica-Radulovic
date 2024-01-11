@@ -26,7 +26,7 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img align="left" alt="Insomnia" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353904/insomnia.svg" />
 <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
-<img align="left" alt="Netlify" width="50px" style="padding-right: 10px;" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" />
+<img align="left" alt="Netlify" width="50px" style="padding-right:10px;"  src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" />
 
 
 
