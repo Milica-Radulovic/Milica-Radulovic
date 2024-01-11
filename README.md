@@ -17,7 +17,7 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 <img align="left" alt="VisualStudio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="StyledComponents" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+<img align="left" alt="StyledComponents" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/306811/styled-components.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -29,10 +29,6 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 <img align="left" alt="Netlify" width="30px" style="padding-right: 10px;" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" />
 
 
-
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
