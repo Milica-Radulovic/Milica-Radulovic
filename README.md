@@ -11,22 +11,67 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 
 <br>
 
-## Languages and Tools ⚙️  
-<img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> 
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> 
-<img align="left" alt="VisualStudio Code" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="StyledComponents" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
-<img align="left" alt="Tailwind" width="50px" style="padding-right:10px;" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" />
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" />
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-<img align="left" alt="Insomnia" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353904/insomnia.svg" />
-<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
-<img align="left" alt="Netlify" width="50px" style="padding-right:10px;"  src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" />
+## Languages and Tools ⚙️
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="Markdown" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="VisualStudio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="StyledComponents" width="50px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="Tailwind" width="50px" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="React" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="Express" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="MongoDB" width="50px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="Insomnia" width="50px" src="https://www.svgrepo.com/show/353904/insomnia.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="Firebase" width="50px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
+</div>
+
+<div style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+    <img align="left" alt="Netlify" width="50px" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" />
+</div>
 
 
 
