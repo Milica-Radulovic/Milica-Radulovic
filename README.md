@@ -54,7 +54,7 @@ This project is about Milica and her yoga journey. It includes a page with a bri
 <br/>
 <br/>
 
-### Profile Summary
+## Profile Summary
 
 <p align="center">
   <a href="https://github.com/Milica-Radulovic">
