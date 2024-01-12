@@ -51,4 +51,33 @@ This project is about Milica and her yoga journey. It includes a page with a bri
 
 ---
 
+<br/>
+<br/>
+
+### Profile Summary
+
+<p align="center">
+  <a href="https://github.com/Milica-Radulovic">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Milica-Radulovic&theme=noctis-minimus&hide_border=true&border_radius=9.5&card_width=446" alt="Milica's GitHub streak"/>
+  </a>
+</p>
+
+<br/>
+<p align="center">
+  <a href="https://github.com/Milica-Radulovic">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milica-Radulovic&theme=noctis_minimus" alt="Milica's GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Milica-Radulovic&theme=noctis_minimus" alt="Milica" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Milica-Radulovic&theme=noctis_minimus" alt="Milica" />
+</p>
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Milica-Radulovic&theme=noctis_minimus" alt="Milica" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Milica-Radulovic&theme=noctis_minimus&utcOffset=8" alt="Milica" />
+</p>
+<br/>
+
+![Milica's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Milica-Radulovic&bg_color=1B2932&color=72B7C0&line=C5C8CE&point=D3B692&area_color=FFFFFF&title_color=D3B692&area=true)
+
 
