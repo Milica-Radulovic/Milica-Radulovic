@@ -1,4 +1,8 @@
 
+![GitHub_Milica](https://github.com/Milica-Radulovic/Milica-Radulovic/assets/120387869/de06c149-e65b-493e-936e-715e27b20038)
+
+
+
 <h1 align="center">🛠️ 💻 Hello planet 🙋‍♀️, I'm Milica Radulovic</h1>
 
 <p>With a background rich in diverse experiences, I embarked on a transformative journey into Fullstack Web Development a year and a half ago. 
