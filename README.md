@@ -1,5 +1,6 @@
 
-![GitHub_Milica](https://github.com/Milica-Radulovic/Milica-Radulovic/assets/120387869/de06c149-e65b-493e-936e-715e27b20038)
+![The Best Tech, Best Future](https://github.com/Milica-Radulovic/Milica-Radulovic/assets/120387869/d9168fbc-e76a-41cc-bec7-df081b302d8e)
+
 
 
 
