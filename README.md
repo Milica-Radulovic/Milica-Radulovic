@@ -5,7 +5,7 @@
 Passionate about creativity and challenges, I'm a dedicated junior full stack web developer, eager to expand my horizons. 🚀</p>
 <br>
 
-- 🔭 Here you can check out my first project 📂 [Yoga Journey](https://milicarad.netlify.app/)
+- 🔭 Here you can check out my very first project 📂 [Yoga Journey](https://milicarad.netlify.app/)
 - 🌳 I’m currently working on the project [BioBaumBauer](https://github.com/solawi-projects)
 - 📫 How to reach me: milicarad@hotmail.com
 
