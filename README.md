@@ -36,6 +36,7 @@ Passionate about creativity and challenges, I'm a dedicated junior full stack we
 ![Compass](https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 
+<br>
 
 ## Portfolio Projects 📂
 
